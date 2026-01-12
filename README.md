@@ -1,6 +1,6 @@
-# 📊 Portfólio de Data Science - TripleTen
+# 📊 Portfólio de Data Analyst - TripleTen
 
-Bem-vindo ao meu repositório de projetos desenvolvidos durante o bootcamp de Ciência de Dados da **TripleTen**. Aqui você encontrará uma coleção de notebooks e análises que demonstram minha evolução no aprendizado de Python, análise de dados e Machine Learning.
+Bem-vindo ao meu repositório de projetos desenvolvidos durante o bootcamp de Analista de Dados da **TripleTen**. Aqui você encontrará uma coleção de notebooks e análises que demonstram minha evolução no aprendizado de Python, análise de dados e Machine Learning.
 
 ## 🧠 Sobre o Repositório
 
